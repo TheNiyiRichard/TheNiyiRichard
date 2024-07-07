@@ -9,11 +9,9 @@
 
 <p align="left"> <a href="https://twitter.com/favouritecapguy" target="blank"><img src="https://img.shields.io/twitter/follow/favouritecapguy?logo=twitter&style=for-the-badge" alt="favouritecapguy" /></a> </p>
 
-- 🔭 I’m currently working on **Edupath**
+- 🔭 I’m currently working on a website for my Internship company **Polysense Solutions**
 
-- 🌱 I’m currently learning **JavaScript and React**
-
-- 🤝 I’m looking for help with **Tailwinds**
+- 🌱 I’m currently learning **Tailwinds and figma**
 
 - 📫 How to reach me **Adedokunrichard2@gmail.com**
 
