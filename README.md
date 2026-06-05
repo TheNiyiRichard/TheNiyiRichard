@@ -1,39 +1,53 @@
+<p align="center">
+  <img src="https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=1400&q=80" alt="Developer Banner" width="100%" />
+</p>
+
 <h1 align="center">Adeniyi Richard Adedokun</h1>
 
 <h3 align="center">
-Full Stack Software Developer | .NET & React Developer | UI/UX Enthusiast
+Full Stack Software Developer | .NET Developer | React Developer
 </h3>
 
 <p align="center">
-Building scalable web applications and delivering exceptional user experiences through modern software development practices.
+Building scalable web applications, modern user experiences, and business-focused software solutions.
+</p>
+
+<p align="center">
+  <a href="mailto:Adedokunrichard2@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-blue?style=for-the-badge" />
+  </a>
+  <a href="https://linkedin.com/in/adeniyi-adedokun-a8a848213">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-I am a Full Stack Software Developer with over **3 years of professional development experience**, specializing in modern web application development using the Microsoft technology stack and JavaScript ecosystems.
+I am a Full Stack Software Developer with over **3 years of software development experience**, specializing in building scalable web applications using modern frontend and backend technologies.
 
-I graduated from the **Software Development Program at MITT in 2024** and have since been focused on building responsive, scalable, and maintainable software solutions across both frontend and backend environments.
+Since graduating from the **Software Development Program at MITT in 2024**, I have focused on delivering high-quality software solutions that combine performance, maintainability, and exceptional user experience.
 
-My expertise includes designing intuitive user interfaces, developing robust APIs, integrating databases, and delivering end-to-end solutions that create real business value.
+My background includes frontend development, backend API development, database design, UI/UX implementation, and full project lifecycle delivery.
 
 ---
 
 ## 🚀 Professional Experience
 
-### Frontend Developer – Polysense Solutions
+### Frontend Developer | Polysense Solutions
 
-- Designed and developed the company website from the ground up.
-- Built responsive and accessible user interfaces.
-- Collaborated closely with stakeholders to transform business requirements into functional solutions.
-- Improved user experience through modern UI/UX principles and performance optimization.
+- Developed the company's website from the ground up.
+- Built responsive and accessible user interfaces using modern web technologies.
+- Collaborated with stakeholders to translate business requirements into technical solutions.
+- Improved user experience through performance optimization and modern UI/UX principles.
+- Delivered maintainable and scalable frontend architecture.
 
 ---
 
 ## 🛠️ Technical Skills
 
-### Frontend
+### Frontend Development
 
 - HTML5
 - CSS3
@@ -45,7 +59,7 @@ My expertise includes designing intuitive user interfaces, developing robust API
 - UI/UX Design
 - Figma
 
-### Backend
+### Backend Development
 
 - C#
 - ASP.NET Core
@@ -65,30 +79,41 @@ My expertise includes designing intuitive user interfaces, developing robust API
 - Git
 - GitHub
 - Visual Studio
-- VS Code
+- Visual Studio Code
 - Postman
-- Azure Fundamentals
+- Azure
+- Bash
 
 ---
 
-## 📌 Areas of Interest
+## 💻 Technology Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,cs,dotnet,python,php,mysql,git,github,bootstrap,tailwind,figma,visualstudio,vscode,azure" />
+</p>
+
+---
+
+## 📌 Core Competencies
 
 - Full Stack Web Development
-- Cloud Technologies
+- API Development & Integration
+- Database Design & Management
+- UI/UX Design Implementation
 - Software Architecture
-- UI/UX Design
-- API Development
+- Responsive Web Applications
 - Performance Optimization
-- Mobile Development
+- Agile Development Practices
 
 ---
 
-## 🌱 Currently Learning
+## 🌱 Currently Expanding Expertise In
 
 - Advanced ASP.NET Core
-- Cloud Deployment Workflows
+- Cloud-Based Application Deployment
+- System Design & Architecture
 - Modern React Patterns
-- System Design Principles
+- Azure Services
 
 ---
 
@@ -110,20 +135,13 @@ My expertise includes designing intuitive user interfaces, developing robust API
 
 ---
 
-## 💻 Technology Stack
+## 📫 Contact Information
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,cs,dotnet,python,php,mysql,git,github,bootstrap,tailwind,figma,vscode,visualstudio,azure" />
-</p>
+📧 Email: Adedokunrichard2@gmail.com
 
----
-
-## 📫 Contact
-
-📧 Adedokunrichard2@gmail.com
-
-💼 LinkedIn: https://linkedin.com/in/adeniyi-adedokun-a8a848213
+💼 LinkedIn: linkedin.com/in/adeniyi-adedokun-a8a848213
 
 ---
 
 > "Excellence is built through consistency, discipline, and continuous improvement."
+```
