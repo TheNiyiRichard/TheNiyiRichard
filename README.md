@@ -1,4 +1,3 @@
-```md
 <h1 align="center">Adeniyi Richard Adedokun</h1>
 
 <h3 align="center">
