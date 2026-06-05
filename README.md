@@ -127,5 +127,3 @@ My expertise includes designing intuitive user interfaces, developing robust API
 ---
 
 > "Excellence is built through consistency, discipline, and continuous improvement."
-```
-
