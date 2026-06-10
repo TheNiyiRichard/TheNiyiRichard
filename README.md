@@ -1,4 +1,3 @@
-```md
 <p align="center">
   <img src="./assets/banner.png" alt="Adeniyi Richard Adedokun Banner" width="100%" />
 </p>
