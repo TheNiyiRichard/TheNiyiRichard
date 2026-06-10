@@ -1,12 +1,13 @@
+```md
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=1400&q=80" alt="Developer Banner" width="100%" />
+  <img src="./assets/banner.png" alt="Adeniyi Richard Adedokun Banner" width="100%" />
 </p>
 
 <h1 align="center">Adeniyi Richard Adedokun</h1>
 
-<h3 align="center">
+<p align="center">
 Full Stack Software Developer | .NET Developer | React Developer
-</h3>
+</p>
 
 <p align="center">
 Building scalable web applications, modern user experiences, and business-focused software solutions.
@@ -25,30 +26,45 @@ Building scalable web applications, modern user experiences, and business-focuse
 
 ## 👨‍💻 About Me
 
-I am a Full Stack Software Developer with over **3 years of software development experience**, specializing in building scalable web applications using modern frontend and backend technologies.
+I'm a Full Stack Software Developer with **3+ years of experience** building scalable, reliable, and user-focused software solutions.
 
-Since graduating from the **Software Development Program at MITT in 2024**, I have focused on delivering high-quality software solutions that combine performance, maintainability, and exceptional user experience.
+A graduate of the **Software Development Program at MITT (2024)**, I have professional experience spanning frontend development, backend development, software support, and technical operations across both private and public sector environments.
 
-My background includes frontend development, backend API development, database design, UI/UX implementation, and full project lifecycle delivery.
+My expertise includes designing responsive user interfaces, developing backend services and APIs, working with relational databases, and delivering maintainable software solutions that solve real business problems.
 
 ---
 
-## 🚀 Professional Experience
+## 💼 Professional Experience
 
-### Frontend Developer | Polysense Solutions
+### Front End Developer | Strategia Solutions
 
-- Developed the company's website from the ground up.
-- Built responsive and accessible user interfaces using modern web technologies.
-- Collaborated with stakeholders to translate business requirements into technical solutions.
-- Improved user experience through performance optimization and modern UI/UX principles.
-- Delivered maintainable and scalable frontend architecture.
+- Developed and maintained responsive web applications using modern frontend technologies.
+- Collaborated with stakeholders to implement user-centered solutions.
+- Converted UI/UX designs into functional and accessible interfaces.
+- Improved application performance, responsiveness, and overall user experience.
+- Participated in testing, debugging, and ongoing product enhancements.
+
+### Backend Developer (Contract) | Government of Manitoba
+
+- Assisted in backend application development and maintenance.
+- Worked with APIs, database operations, and system integrations.
+- Contributed to software testing, deployment, and troubleshooting activities.
+- Collaborated with technical teams to deliver reliable software solutions.
+- Participated in documentation and technical support initiatives.
+
+### Software Technical Assistant | Government of Manitoba
+
+- Provided technical support for software applications and internal systems.
+- Assisted with issue investigation, troubleshooting, and resolution.
+- Supported testing and validation activities for software releases.
+- Maintained technical documentation and operational procedures.
+- Contributed to process improvements and support workflows.
 
 ---
 
 ## 🛠️ Technical Skills
 
 ### Frontend Development
-
 - HTML5
 - CSS3
 - JavaScript (ES6+)
@@ -60,48 +76,37 @@ My background includes frontend development, backend API development, database d
 - Figma
 
 ### Backend Development
-
 - C#
 - ASP.NET Core
 - ASP.NET Framework
-- REST APIs
 - Node.js
 - PHP
 - Python
+- REST APIs
 
 ### Database Technologies
-
 - SQL Server
 - MySQL
 
 ### Tools & Platforms
-
 - Git
 - GitHub
+- Azure
 - Visual Studio
 - Visual Studio Code
 - Postman
-- Azure
 - Bash
 
 ---
 
-## 💻 Technology Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,cs,dotnet,python,php,mysql,git,github,bootstrap,tailwind,figma,visualstudio,vscode,azure" />
-</p>
-
----
-
-## 📌 Core Competencies
+## 🚀 Core Competencies
 
 - Full Stack Web Development
-- API Development & Integration
+- Frontend Architecture
+- Backend API Development
 - Database Design & Management
-- UI/UX Design Implementation
-- Software Architecture
-- Responsive Web Applications
+- Software Troubleshooting
+- UI/UX Implementation
 - Performance Optimization
 - Agile Development Practices
 
@@ -110,38 +115,20 @@ My background includes frontend development, backend API development, database d
 ## 🌱 Currently Expanding Expertise In
 
 - Advanced ASP.NET Core
-- Cloud-Based Application Deployment
+- Azure Cloud Services
 - System Design & Architecture
+- Cloud Deployment Strategies
 - Modern React Patterns
-- Azure Services
 
 ---
 
-## 🤝 Connect With Me
+## 📫 Connect With Me
 
-<p align="left">
-<a href="https://linkedin.com/in/adeniyi-adedokun-a8a848213">
-<img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
-
-<a href="https://twitter.com/favouritecapguy">
-<img src="https://skillicons.dev/icons?i=twitter" />
-</a>
-
-<a href="mailto:Adedokunrichard2@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" />
-</a>
-</p>
+- 📧 Email: **Adedokunrichard2@gmail.com**
+- 💼 LinkedIn: **linkedin.com/in/adeniyi-adedokun-a8a848213**
+- 💻 GitHub: **github.com/theniyirichard**
 
 ---
 
-## 📫 Contact Information
-
-📧 Email: Adedokunrichard2@gmail.com
-
-💼 LinkedIn: linkedin.com/in/adeniyi-adedokun-a8a848213
-
----
-
-> "Excellence is built through consistency, discipline, and continuous improvement."
+> "Building software that solves real problems and creates meaningful user experiences."
 ```
