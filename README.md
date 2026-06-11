@@ -130,4 +130,3 @@ My expertise includes designing responsive user interfaces, developing backend s
 ---
 
 > "Building software that solves real problems and creates meaningful user experiences."
-```
