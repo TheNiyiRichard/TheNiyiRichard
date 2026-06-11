@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner.png" alt="Adeniyi Richard Adedokun Banner" width="100%" />
+  <img src="./assets/ChatGPT Image Jun 10, 2026, 12_54_20 AM" alt="Adeniyi Richard Adedokun Banner" width="100%" />
 </p>
 
 <h1 align="center">Adeniyi Richard Adedokun</h1>
